@@ -4,11 +4,19 @@ Software apps and online services
    3.  OpenCV	
  
  Hardware components
-	1. Breadboard (generic)		
-	2. LED: Red	
-	3. LED: Green
-	4. LED: Yellow
-	5. Jumper wires (generic)	
-	6.Resistor 330 ohm	
-	7. Arduino UNO	
+
+	1.  Breadboard (generic)	
+
+	2.  LED: Red	
+
+	3.  LED: Green
+
+	4.  LED: Yellow
+
+	5.  Jumper wires (generic)	
+
+	6.  Resistor 330 ohm	
+
+	7.  Arduino UNO	
+
  
