@@ -1,9 +1,9 @@
-Software apps and online services
+### Software apps and online services
    1. Arduino IDE	
    2. Jupyter Notebook	
    3.  OpenCV	
  
- Hardware components
+### Hardware components
 
 	1.  Breadboard (generic)	
 
